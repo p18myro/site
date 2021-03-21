@@ -24,4 +24,5 @@ events:
   - eclipse-ide
   - processing-ide 
   - learntomod
+  - Lisp-Programming-Language
 ---
