@@ -15,3 +15,9 @@
 	path = _bibliography
 	url = https://github.com/pibook/bibliography.git
 	branch = master
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/p18myro/_gallery.git
+[submodule "images"]
+	path = images
+	url = https://github.com/p18myro/images.git
