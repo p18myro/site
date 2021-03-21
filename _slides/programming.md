@@ -24,6 +24,6 @@ slides:
   - eclipse-ide
   - vim-ide
   - processing-ide 
-  - learntomod
-  - Lisp-Programming-Language
+  - learntomod   
+  - Lisp-programming-language
 ---

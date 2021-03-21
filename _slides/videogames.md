@@ -13,5 +13,5 @@ slides:
   - c64-demoscene
   - math-blaster
   - minecraft-end-user
-  - SimCity-Video-Game
+  - simcity-videogame
 ---
